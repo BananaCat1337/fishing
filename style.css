@@ -123,6 +123,7 @@ main {
     max-width: 100px;
     margin: 0 auto;
     padding-bottom: 15px;
+    background-color: #616f8c;
 }
 
 .img {
@@ -144,11 +145,12 @@ h5 {
     color: white;
     margin-bottom: 0%;
     height: 50px;
+    margin: 0;
 }
 
 
 footer-wrapper {
-    background-color: white;
+    background-color: #616f8c;
 }
 
 bottom {
@@ -158,4 +160,8 @@ bottom {
 
 ul {
     padding-left: 5px;
+}
+
+.qqq {
+    background-color: #616f8c;
 }
